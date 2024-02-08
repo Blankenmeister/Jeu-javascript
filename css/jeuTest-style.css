@@ -1,0 +1,34 @@
+
+.fondJeu {
+    width: 850px;
+    height: 600px;
+    background-color: rgb(125, 187, 241);
+    background-image: url("../img/fondJeu3.png");
+    background-repeat: no-repeat;
+   
+}
+
+.personnage {
+    width: 200px;
+    height: 230px;
+    background-image: url("../img/chien2.png");
+    background-repeat: no-repeat;
+    position: absolute;
+    top: 0;
+    left: 0;
+  
+}
+
+.saucisse {
+    width: 100px;
+    height: 150px;
+    background-image: url("../img/saucisse100.png");
+    background-repeat: no-repeat;
+    position: absolute;
+    top: 0;
+    left: 0;
+    
+   
+    
+}
+
